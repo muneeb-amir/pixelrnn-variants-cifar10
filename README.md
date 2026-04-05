@@ -126,5 +126,10 @@ All models return logits over 256 discrete values per channel.
 
 ---
 
+## Results
+<img width="1293" height="703" alt="image" src="https://github.com/user-attachments/assets/ffc65c33-6dce-4850-9189-374b6d15e56c" />
+
+<img width="1426" height="704" alt="image" src="https://github.com/user-attachments/assets/c59277d3-f44d-46c2-925f-91d2023ab5c9" />
+
 
 
